@@ -2,10 +2,9 @@
 
 ## Checklist
 
-[ ] The `README` file exists and clearly defines what the software does
-[ ] A `LICENCE` file has been provided
-[ ] An issue tracker is available
-[ ] 
+- [ ] The `README` file exists and clearly defines what the software does
+- [ ] A `LICENCE` file has been provided
+- [ ] An issue tracker is available
 
 ## Key references
 
